@@ -1,0 +1,17 @@
+{
+  "Host": "10.3.91.20",
+  "Port": "8000",
+  "Mysql": {
+    "Username": "root",
+    "Password": "123456",
+    "Host": "106.14.141.61",
+    "Port": "30060",
+    "DbName": "user"
+  },
+  "Consul": {
+    "Host": "10.3.91.20",
+    "Port": "8500",
+    "Name": "user_srv",
+    "Tags": ["wkxx", "user", "srv"]
+  }
+}
